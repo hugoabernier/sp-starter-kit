@@ -8,11 +8,11 @@ Original v1 implementation located at https://github.com/SharePoint/sp-starter-k
 
 In v2 release repackaged as it's own solution to provide more flexibility from deployment perspective.
 
-![Redirection Extension](../../assets/images/components/ext-redirect.gif)
+![Redirection Extension](../../assets/images/components/ext-redirects.gif)
 
 ## Used SharePoint Framework Version
 
-![drop](https://img.shields.io/badge/version-1.4-green.svg)
+![1.4](https://img.shields.io/badge/version-1.4-green.svg)
 
 * Supported with SharePoint 2019
 
